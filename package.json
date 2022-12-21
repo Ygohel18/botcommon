@@ -18,5 +18,12 @@
     "axios": "^1.2.1",
     "dotenv": "^16.0.1",
     "url-metadata": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygohel18/botcommon.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ygohel18"
   }
 }
