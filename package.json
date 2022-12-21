@@ -1,0 +1,22 @@
+{
+  "name": "botcommon",
+  "version": "1.0.0",
+  "description": "Soial Media Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "bot",
+    "planckstudio",
+    "social",
+    "media"
+  ],
+  "author": "ygohel18 (yashgohel16@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "dotenv": "^16.0.1",
+    "url-metadata": "^2.5.0"
+  }
+}
