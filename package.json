@@ -1,5 +1,5 @@
 {
-  "name": "@ygohel18/botcommon",
+  "name": "botcommon",
   "version": "1.0.0",
   "description": "Soial Media Bot",
   "main": "index.js",
@@ -22,8 +22,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ygohel18/botcommon.git"
-  },
-  "publishConfig": {
-    "@ygohel18:registry": "https://npm.pkg.github.com"
   }
 }
