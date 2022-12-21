@@ -1,5 +1,5 @@
 {
-  "name": "botcommon",
+  "name": "@ygohel18/botcommon",
   "version": "1.0.0",
   "description": "Soial Media Bot",
   "main": "index.js",
