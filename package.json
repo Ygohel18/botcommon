@@ -24,6 +24,6 @@
     "url": "git+https://github.com/ygohel18/botcommon.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ygohel18"
+    "@ygohel18:registry": "https://npm.pkg.github.com"
   }
 }
